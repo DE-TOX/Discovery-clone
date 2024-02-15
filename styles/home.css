@@ -288,3 +288,27 @@ body {
     top: 0;
     z-index: -1
 }
+
+.section4 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+    align-items: center;
+    margin-top: 10vh;
+}
+
+.section4-content {
+    display: flex;
+    flex-direction: column;
+    height: 39vh;
+    width: 70vw;
+    /* background-color: aqua; */
+    justify-content: flex-end;
+    align-items: flex;
+}
+
+.earth {
+    /* background-color: aqua; */
+    
+}
