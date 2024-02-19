@@ -95,3 +95,76 @@ body {
 .card {
     height: 29vh;
 }
+
+.cards-section p {
+    margin: 0;
+    font-size: small;
+    opacity: 0.7;
+}
+
+.cards-section h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    opacity: 0.7;
+}
+
+
+.screen6 {
+    height: 80vh;
+    width: 100%;
+    background-color: #111;
+}
+
+.logo {
+    display: flex;
+    position: absolute;
+    left: 16vh;
+    margin-top: 10%;
+    height: 10vh;
+    width: 10vw;
+
+}
+
+.lines {
+    display: flex;
+    position: absolute;
+    left: 55%;
+    margin-top: 10%;
+    height: 40vh;
+    width: 40vw;
+
+}
+
+.line1 {
+    display: flex;
+    position: absolute;
+
+    height: 100%;
+    width: 50%;
+    line-height: 200%;
+}
+
+.line2 {
+    display: flex;
+    position: absolute;
+
+    height: 100%;
+    left: 100%;
+    width: 51%;
+    line-height: 200%;
+}
+
+.line3 {
+    display: flex;
+    position: absolute;
+
+    height: 100%;
+    left: 150%;
+    width: 51%;
+    line-height: 200%;
+}
+
+.textbottom {
+    font-size: 10px;
+    opacity: 0.5;
+}
